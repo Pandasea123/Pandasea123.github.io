@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![CV](https://img.shields.io/badge/CV-download-blue?logo=adobeacrobatreader)](static/assets/cv.pdf)
 
 He is currently a PHD student in the Department of Engineering at The University of Osaka.
 

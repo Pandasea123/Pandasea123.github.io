@@ -1,6 +1,7 @@
 
 
-[![CV](https://img.shields.io/badge/CV-download-blue?logo=adobeacrobatreader)](static/assets)
+[![CV](https://img.shields.io/badge/CV-download-blue?logo=adobeacrobatreader)](static/assets/cv.pdf)
+
 
 He is currently a PHD student in the Department of Engineering at The University of Osaka.
 

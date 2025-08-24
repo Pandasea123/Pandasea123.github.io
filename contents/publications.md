@@ -14,4 +14,4 @@
 
 - X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
 
-- J. Yu, <strong>Y. Zhao</strong> and G. Huang, "Simulation and Experimental Study of a Novel Load-Sensitive Control Valve for Mining Drills," <strong>2019 IEEE 8th International Conference on Fluid Power and Mechatronics (FPM)<strong>, Wuhan, China, 2019, pp. 459-465. [[Paper]](https://doi.org/10.1109/FPM45753)
+- J. Yu, <strong>Y. Zhao</strong> and G. Huang, "Simulation and Experimental Study of a Novel Load-Sensitive Control Valve for Mining Drills," <strong>2019 IEEE 8th International Conference on Fluid Power and Mechatronics (FPM)<strong>. [[Paper]](https://doi.org/10.1109/FPM45753.2019.9035897)

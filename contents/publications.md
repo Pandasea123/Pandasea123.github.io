@@ -1,6 +1,6 @@
 #### Submitted
 
-- <strong>Y. Zhao</strong>, Y. Wang, X. Zeng and K. Morishima. Heat Transfer-based Monitoring System for Sap Flow in Plants. <strong>2025 IEEE International Conference on Mechatronics and Automation (ICMA)</strong>.
+- <strong>Y. Zhao</strong>, Y. Wang, X. Zeng and K. Morishima (2025). Heat Transfer-based Monitoring System for Sap Flow in Plants. <strong>2025 IEEE International Conference on Mechatronics and Automation (ICMA)</strong>.
 
 #### Published
 

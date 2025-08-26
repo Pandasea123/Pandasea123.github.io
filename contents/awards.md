@@ -1,16 +1,8 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- PMP (Project Management Professional), 2020.
 
-- National Scholarship for Graduate Student, 2024.
+- CCNP (Cisco Certified Network Professional), 2021.
 
-- First-Prize Scholarship (CUMT), 2024.
+- RHCE (Red Hat Certified Engineer), 2021.
 
-- First-Prize Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
+- TensorFlow Developer Certificate, 2021.

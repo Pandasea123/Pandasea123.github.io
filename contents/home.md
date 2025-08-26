@@ -13,5 +13,5 @@ M.E., Mechanical Engineering, Chongqing University, 2017—2020.\
 B.E., Mechanical Design and Manufacturing and Automation, Hefei University of Technology, 2012—2017.
 
 #### Research Interests
-Sensor, Flexible Sensor, Electronic, Plant.
+Mems, Electronic, Sensor, Flexible Sensor,  Plant.
 

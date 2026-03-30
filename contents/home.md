@@ -13,7 +13,7 @@ M.E., Mechanical Engineering, Chongqing University, 2017—2020.\
 B.E., Mechanical Design and Manufacturing and Automation, Hefei University of Technology, 2012—2017.
 
 #### Research Interests
-Mems, Electronic, Sensor, Flexible Sensor,  Plant.
+MEMS, Plant, Plant-machine interface, Sensing  Electronic, Sensor, Flexible Sensor.
 
 #### Research map
 https://researchmap.jp/zhaoyan
